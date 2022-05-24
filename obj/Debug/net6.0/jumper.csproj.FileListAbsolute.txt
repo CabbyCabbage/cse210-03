@@ -1,0 +1,15 @@
+C:\Users\smell\OneDrive - BYU-Idaho\Spring2022\02 CSE 210\jumper\bin\Debug\net6.0\jumper.exe
+C:\Users\smell\OneDrive - BYU-Idaho\Spring2022\02 CSE 210\jumper\bin\Debug\net6.0\jumper.deps.json
+C:\Users\smell\OneDrive - BYU-Idaho\Spring2022\02 CSE 210\jumper\bin\Debug\net6.0\jumper.runtimeconfig.json
+C:\Users\smell\OneDrive - BYU-Idaho\Spring2022\02 CSE 210\jumper\bin\Debug\net6.0\jumper.dll
+C:\Users\smell\OneDrive - BYU-Idaho\Spring2022\02 CSE 210\jumper\bin\Debug\net6.0\jumper.pdb
+C:\Users\smell\OneDrive - BYU-Idaho\Spring2022\02 CSE 210\jumper\obj\Debug\net6.0\jumper.csproj.AssemblyReference.cache
+C:\Users\smell\OneDrive - BYU-Idaho\Spring2022\02 CSE 210\jumper\obj\Debug\net6.0\jumper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smell\OneDrive - BYU-Idaho\Spring2022\02 CSE 210\jumper\obj\Debug\net6.0\jumper.AssemblyInfoInputs.cache
+C:\Users\smell\OneDrive - BYU-Idaho\Spring2022\02 CSE 210\jumper\obj\Debug\net6.0\jumper.AssemblyInfo.cs
+C:\Users\smell\OneDrive - BYU-Idaho\Spring2022\02 CSE 210\jumper\obj\Debug\net6.0\jumper.csproj.CoreCompileInputs.cache
+C:\Users\smell\OneDrive - BYU-Idaho\Spring2022\02 CSE 210\jumper\obj\Debug\net6.0\jumper.dll
+C:\Users\smell\OneDrive - BYU-Idaho\Spring2022\02 CSE 210\jumper\obj\Debug\net6.0\refint\jumper.dll
+C:\Users\smell\OneDrive - BYU-Idaho\Spring2022\02 CSE 210\jumper\obj\Debug\net6.0\jumper.pdb
+C:\Users\smell\OneDrive - BYU-Idaho\Spring2022\02 CSE 210\jumper\obj\Debug\net6.0\jumper.genruntimeconfig.cache
+C:\Users\smell\OneDrive - BYU-Idaho\Spring2022\02 CSE 210\jumper\obj\Debug\net6.0\ref\jumper.dll
