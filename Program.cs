@@ -9,8 +9,8 @@ namespace jumper
         public static void Main(string[] args)
         {
             
-            TerminalService term = new TerminalService();
-            term.Output("Hello world");
+            Director dir = new Director();
+            dir.StartGame();
 
         }
 

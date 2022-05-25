@@ -18,6 +18,11 @@ namespace jumper.Game
             Console.Write(s);
             return Console.ReadLine();
         }
+
+        public void DisplayGame()
+        {
+
+        }
     }
 
 }
