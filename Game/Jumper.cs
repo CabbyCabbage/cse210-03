@@ -4,7 +4,7 @@ namespace jumper.Game
     public class Jumper 
     {
         TerminalService term;
-        private string guess;
+        private char guess;
         private int parachute;
 
         public Jumper(TerminalService t)
@@ -15,10 +15,10 @@ namespace jumper.Game
 
         public void MakeGuess()
         {
-            guess = term.Input("Guess a letter [a-z]: ");
+            guess = char.Parse(term.Input("Guess a letter [a-z]: "));
         }
 
-        public string GetGuess()
+        public char GetGuess()
         {
             return guess;
         }

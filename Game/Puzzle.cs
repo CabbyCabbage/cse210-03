@@ -6,7 +6,6 @@ namespace jumper.Game
 
         private string[] words;
         private string secretWord;
-        private bool isInWord;
 
         public Puzzle()
         {
@@ -21,23 +20,21 @@ namespace jumper.Game
             Console.WriteLine(secretWord);
         }
 
-        public int GetSecretIndex(string guess)
+        public bool GetisInWord(char guess)
         {
-            int secretIndex = secretWord.IndexOf(char.Parse(guess));
-            if (secretIndex >= 0)
+            for (int i=0; i<secretWord.Length; i++)
             {
-                isInWord = true;
-            } 
-            else 
-            {
-                isInWord = false;
+                if (secretWord[i] == guess)
+                {
+                    return true;
+                }
             }
-            return secretIndex;
+            return false;
         }
 
-        public bool GetisInWord()
+        public string GetSecretWord() 
         {
-            return isInWord;
+            return secretWord;
         }
 
     }

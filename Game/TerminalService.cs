@@ -16,12 +16,24 @@ namespace jumper.Game
         public string Input(string s)
         {
             Console.Write(s);
-            return Console.ReadLine();
+            string response = Console.ReadLine();
+            Console.WriteLine();
+            return response;
         }
 
-        public void DisplayGame()
+        public void DisplayGame(GameBoard gb)
         {
-
+            string spaces = "";
+            foreach (string letter in gb.GetSpaces())
+            {
+                spaces += letter + " ";
+            }
+            Console.WriteLine(spaces);
+            Console.WriteLine();
+            foreach (string line in gb.GetBoard())
+            {
+                Console.WriteLine(line);
+            }
         }
     }
 
